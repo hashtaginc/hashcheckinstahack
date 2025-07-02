@@ -24,18 +24,9 @@ Aşağıdaki adımları takip ederek projeyi kurabilirsiniz:
 pkg update && pkg upgrade
 pkg install python git
 
-bash
-Kopyala
-Düzenle
-git clone https://github.com/kendi-kullanici-adi/instagram-simulator.git
-cd instagram-simulator
-3. Gereken Python Modüllerini Yükleyin
-bash
-Kopyala
-Düzenle
+git clone https://github.com/hashtaginc/Hashbomb.git
+cd Hashbomb
+
 pip install -r requirements.txt
-4. Çalıştırın
-bash
-Kopyala
-Düzenle
-python bot.py
+
+python hashbomb.py.py
