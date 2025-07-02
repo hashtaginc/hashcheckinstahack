@@ -25,7 +25,7 @@ pkg update && pkg upgrade
 pkg install python git
 
 git clone https://github.com/hashtaginc/Hashcheckinstahack.git
-cd Hashbomb
+cd Hashcheckinstahack
 
 pip install -r requirements.txt
 
