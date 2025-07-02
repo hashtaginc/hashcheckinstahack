@@ -24,9 +24,9 @@ Aşağıdaki adımları takip ederek projeyi kurabilirsiniz:
 pkg update && pkg upgrade
 pkg install python git
 
-git clone https://github.com/hashtaginc/Hashbomb.git
+git clone https://github.com/hashtaginc/Hashcheckinstahack.git
 cd Hashbomb
 
 pip install -r requirements.txt
 
-python hashbomb.py
+python hashcheck.py
