@@ -29,4 +29,4 @@ cd Hashbomb
 
 pip install -r requirements.txt
 
-python hashbomb.py.py
+python hashbomb.py
